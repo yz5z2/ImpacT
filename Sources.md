@@ -8,7 +8,7 @@ These datasets vary from data about climate, education, energy, Finance and many
 
 * [data.gov.in](https://data.gov.in)
 
-- This is the home of the Indian Government’s open data. Find data by various industries, climate, health care etc.
+-This is the home of the Indian Government’s open data. Find data by various industries, climate, health care etc.
 
 * [World Bank](https://data.worldbank.org)
 
