@@ -5,8 +5,7 @@
 This project learns how to use Python to analyze CSV datasets by collecting and analyzing data on hospital beds around the world. In the tutorial file
 will show you how to set up the Python environment, this project is mainly focus on how to use Pandas in Python and how to find the real and reliable data.
 
-1. Set Up
-* [Set Up tutorial](Set_Up/Set_up.md)
+1. * [Set Up tutorial](https://github.com/yz5z2/ImpacT/blob/main/Set-Up/tutorial.md)
 
 2. Tutorial
 * [Tutorial](Tutorial.md)
