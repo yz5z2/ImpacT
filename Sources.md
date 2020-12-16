@@ -3,11 +3,14 @@
 ## Simple & Generic datasets to get you started
 
 * [data.gov](https://www.data.gov)
+
 -This is the home of the U.S. Government’s open data. The site contains more than 190,000 data points at time of publishing. 
 These datasets vary from data about climate, education, energy, Finance and many more areas.
 
 * [data.gov.in](https://data.gov.in)
+
 -This is the home of the Indian Government’s open data. Find data by various industries, climate, health care etc.
 
 * [World Bank](https://data.worldbank.org)
+
 -The open data from the World bank. The platform provides several tools like Open Data Catalog, world development indices, education indices etc.
