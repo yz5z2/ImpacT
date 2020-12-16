@@ -2,7 +2,7 @@
 
 https://pandas.pydata.org/getting_started.html
 
-1 Open Anaconda Website and download Anaconda.
+1 Open [Anaconda Website](https://www.anaconda.com/products/individual) and download Anaconda.
 
 2 Install Anaconda on your computer.
 
