@@ -8,7 +8,7 @@ https://pandas.pydata.org/getting_started.html
 
 3 Open Anaconda and Launch Jupyer Notebook.
 
-4 Click the New on the up right corner and create an new project.
+4 Click the New on the up right corner and create an new Python 3 project.
 
 5 Start your coding.
 
