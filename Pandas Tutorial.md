@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. Set up the Python environemnt. 
-    - [Set Up Tutorial](Set_Up/Set_up.md)
+    - [Set Up Tutorial](https://github.com/yz5z2/ImpacT/blob/main/Set-Up/tutorial.md)
     - [Windows Tutorial](https://www.youtube.com/watch?v=YO6QgvgOz6U&t=217s)
 2. Learn basic Python tutorial.
     - [Python Tutorial](https://www.tutorialspoint.com/python/python_environment.htm)
