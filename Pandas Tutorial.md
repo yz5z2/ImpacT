@@ -15,15 +15,15 @@
 
 ## How to Use Pandas
 
-* There are many ways of learning Pandas.
+* You can learn to use Pandas in the following ways.
     * Youtube Videos Tutorial About Pandas.
-        - https://www.youtube.com/watch?v=vmEHCJofslg
         - https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
+        - https://www.youtube.com/watch?v=vmEHCJofslg
         
-    * Other Great Resources of learning Pandas.
-        - https://pandas.pydata.org/docs/user_guide/index.html#user-guide
-        - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-        - http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+    * Other good way to learn Pandas.
         - https://www.dataquest.io/blog/pandas-python-tutorial/
-        
+        - https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+        - http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+        - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+       
 ## Analysis Data
