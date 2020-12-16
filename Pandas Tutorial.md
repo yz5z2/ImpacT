@@ -16,8 +16,11 @@
 ## How to Use Pandas
 
 * There are many ways of learning Pandas.
+
      Youtube Videos Tutorial About Pandas.
+     
         - https://www.youtube.com/watch?v=vmEHCJofslg
+        
         - https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
         
      Other Great Resources of learning Pandas.
