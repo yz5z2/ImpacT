@@ -3,7 +3,6 @@
 ## Simple & Generic datasets to get you started
 
 * [data.gov](https://www.data.gov)
-
 - This is the home of the U.S. Government’s open data. The site contains more than 190,000 data points at time of publishing. 
 These datasets vary from data about climate, education, energy, Finance and many more areas.
 
