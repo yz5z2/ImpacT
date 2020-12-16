@@ -3,20 +3,21 @@
 ## Simple & Generic datasets to get you started
 
 * [data.gov](https://www.data.gov)
--This is the home of the U.S. Government’s open data. The site contains more than 190,000 data points at time of publishing. 
+
+  -This is the home of the U.S. Government’s open data. The site contains more than 190,000 data points at time of publishing. 
 These datasets vary from data about climate, education, energy, Finance and many more areas.
 
 * [data.gov.in](https://data.gov.in)
 
--This is the home of the Indian Government’s open data. Find data by various industries, climate, health care etc.
+  -This is the home of the Indian Government’s open data. Find data by various industries, climate, health care etc.
 
 * [World Bank](https://data.worldbank.org)
 
-- The open data from the World bank. The platform provides several tools like Open Data Catalog, world development indices, education indices etc.
+  -The open data from the World bank. The platform provides several tools like Open Data Catalog, world development indices, education indices etc.
 
 * [RBI](https://rbi.org.in/Scripts/Statistics.aspx)
 
-- Data available from the Reserve Bank of India. This includes several metrics on money market operations, balance of payments, use of banking and several products. A must go to site, if you come from BFSI domain in India.
+  -Data available from the Reserve Bank of India. This includes several metrics on money market operations, balance of payments, use of banking and several products. A must go to site, if you come from BFSI domain in India.
 
 * [Five Thirty Eight Datasets](https://github.com/fivethirtyeight/data)
 
