@@ -27,3 +27,14 @@
         - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
        
 ## Analysis Data
+* Download the csv file in [Example](https://github.com/yz5z2/ImpacT/blob/main/Example/Hospital_Beds.csv).
+
+* Import file then analysis it in Pandas.
+
+* Loading data into Pandas.
+
+* Reading data in Pandas.
+
+* Sorting/Describing Data.
+
+- Ex:The state of most number of total staffed adult ICU Beds.
