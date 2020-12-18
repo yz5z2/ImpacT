@@ -37,3 +37,10 @@
 
 * Sorting/Describing Data.
     - Ex:The state of most number of total staffed adult ICU Beds.
+
+## Try Yourself
+* Go find your interesting datasets and try to analysis it.
+
+* You can find datasets [HERE](https://github.com/yz5z2/ImpacT/blob/main/Sources.md).
+
+## Hope you can enjoy using Pandas to analyze data!
