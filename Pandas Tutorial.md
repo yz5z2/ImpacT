@@ -36,5 +36,4 @@
 * Reading data in Pandas.
 
 * Sorting/Describing Data.
-
 - Ex:The state of most number of total staffed adult ICU Beds.
